@@ -1,0 +1,174 @@
+.navbar-inverse .navbar-brand{
+    color:#fff;
+    font-weight:700;
+    font-size:32px;
+    font-family: 'EB Garamond', serif;
+}
+
+.navbar{
+    margin-top: 10px !important;
+    padding: 10px !important;
+}
+
+.navbar-inverse{
+    background-color:rgba(0, 0, 0, 0.41)!important;
+    border: none!important;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+    color:#fff;
+    font-weight:700;
+    font-family:'Open Sans', sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+.breadcrumb{
+    background-color:#e9ecef !important;
+}
+
+li.breadcrumb-item a{
+    color:#000 !important;
+    font-weight: 600 !important ;
+    font-size: 1.1em !important;
+    letter-spacing: 0.5px !important;
+    text-decoration: none !important;
+}
+
+.breadcrumb>.active{
+color:#12a221 !important;
+font-size: 1.1em !important;
+font-weight:600 !important;
+letter-spacing:0.5px !important;
+padding: 5px !important;
+}
+
+
+.navbar-inverse .navbar-nav>.active>a,
+ .navbar-inverse .navbar-nav>.active>a:focus,
+  .navbar-inverse .navbar-nav>.active>a:hover{
+color: #12a221!important;
+background-color:transparent !important;;
+}
+
+
+
+
+
+.navbar-inverse .navbar-nav>li>a:hover{
+    color: #12a221!important; 
+}
+
+.dropdown-menu>li>a{
+    font-weight: 800!important;
+    padding: 6px 30px!important;
+}
+
+.dropdown-menu>li>a:hover{
+    color: #12a221!important; 
+    
+}
+
+.nav ul ul li a{
+    color:#333!important;
+    padding: 5px 5px!important;
+    font-size: 10px!important;
+    font-weight: 700;
+}
+
+.btn-primary{
+    background-color:#12a221!important;
+    border-color:#12a221!important;
+    letter-spacing: 1px!important;
+    font-size: 14px!important;
+    font-weight:600!important;
+    margin-left:15px!important;
+    margin-top: 10px!important;
+    margin-bottom: 200px !important;
+    padding: 8px 10px !important;
+  
+}
+
+.btn-success{
+    background-color: #12a221!important;
+    border-color:#12a221 !important;
+    margin-bottom: 30px;
+    padding: 7px 25px;
+}
+
+.card{
+    border: 2px solid rgba(0, 0, 0, 0.125)!important;
+    background-color: rgb(236, 227, 227) !important;
+   margin-top: 40px !important;
+}
+
+.card p{
+    margin: 0;
+    color: #777;
+    font-size: 15px;
+    letter-spacing: .5px;
+    line-height: 1.7;
+    font-weight: 1000;
+    margin-bottom: 18px;
+    margin-top: 5px;
+}
+
+
+.card a{
+    text-decoration: none!important;
+    margin-left: 2px !important;
+
+}
+
+.card-title{
+    color:#000 !important;
+    font-size: 20px;
+    font-weight:900;
+    margin-top: 0px;
+    letter-spacing:1px!important;
+}
+
+.card-footer{
+    background-color: rgba(0, 0, 0, 0.03)!important;
+    padding:10px;
+    border-top:1px solid #dee2e6 !important;
+}
+
+.page-footer{
+    background-color:#212121 !important;
+    padding:20px;
+  }
+  
+  
+  .footer-copyright{
+  color:#fff!important;
+  }
+  
+  .card-title{
+      color:#000!important;
+      font-size: 24px !important;
+      letter-spacing: 2px !important;
+      font-weight: 500!important;
+  }
+
+  .form-group .form-control{
+    border-bottom: 1px !important;
+    border-style: none none solid none !important;
+    border-color: #12a221 !important; 
+  }
+
+  .label {
+    color: #000 !important;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.form-control{
+    background-color: #e2e2e2 !important;
+    border: none !important;
+ }
+
+ .font-awesome{
+     margin-bottom: 20px !important;
+ }
+  
+  
